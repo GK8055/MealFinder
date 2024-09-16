@@ -1,0 +1,29 @@
+.list_item {
+  width: 80%;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: white;
+}
+
+.list_image_size {
+  height: 30px;
+  width: 30px;
+}
+.list_title {
+  font-family: "Roboto";
+  font-size: 23px;
+  color: black;
+}
+.list_desc {
+  font-family: "Roboto";
+  font-size: 16px;
+  color: black;
+}
+.link_style {
+  text-decoration: none;
+}

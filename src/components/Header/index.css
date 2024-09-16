@@ -1,0 +1,18 @@
+.header_container {
+  padding: 10px;
+  background-color: orange;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-family: "Roboto";
+  font-size: 25px;
+  color: black;
+}
+.nav_container {
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+}
